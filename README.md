@@ -1,3 +1,5 @@
+<p align="right"><a href="https://kairulla.github.io/machine_learning_text_analysis_and_image_processing/">home page</a>
+
 # 1.1 Вступление
 ```
 Задание 1.1.1
